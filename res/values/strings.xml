@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UB Building</string>
+    <string name="action_settings">Тухай</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_apartment">Apartment</string>
+    <string name="title_activity_house">House</string>
+    <string name="title_activity_office">Office</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_price_info">PriceInfo</string>
+    <string name="title_activity_calculate">Calculate</string>
+    <string name="title_activity_news_build">NewsBuild</string>
+
+</resources>
